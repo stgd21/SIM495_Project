@@ -1,0 +1,6 @@
+Time(Minutes),EntityID,ObjectName,ProcessID,StepName,Action
+47.665550964464,DefaultEntity.68,Model,7.CountArrivals,[Tally] Tally1,Unable to get value of property 'Tally.ValueExpression'.
+47.665550964464,DefaultEntity.68,Model,7.CountArrivals,[Tally] Tally1,Invalid operation because types of operands must match. Both must be numeric or string.
+47.665550964464,Output@ExitTimeDiff7,Model,6.CountArrivals,[Tally] Tally1,Unable to get value of property 'Tally.ValueExpression'.
+47.665550964464,Output@ExitTimeDiff7,Model,6.CountArrivals,[Tally] Tally1,Invalid operation because types of operands must match. Both must be numeric or string.
+
